@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0dd62d34f81f9f84fa2ab3e8343c1e64
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - winter: {fileID: 8244012629392442310, guid: 7cd6e2b00ad78404fb0679c0b3580752, type: 3}
+  - spring: {fileID: 3015926220418619082, guid: 4a24901ebec759c44b6f391e75d318c1, type: 3}
+  - summer: {fileID: 1747066077823779094, guid: 0c92f309ff48dcd469b9440695786c53, type: 3}
+  - autumn: {fileID: 903605080905276282, guid: a08d8d22011e22d4abb2d47d0c534c22, type: 3}
+  - mix: {fileID: 7367552425658248705, guid: fb9a4f4c72e454941ad78db189c2d421, type: 3}
+  - bottle: {fileID: 3539184435875342608, guid: f90ee10de59a0c841ae02d90c5b40dcf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
